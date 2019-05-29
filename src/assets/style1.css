@@ -1,0 +1,32 @@
+
+/*class name*/
+.navStyle{
+    position: fixed;
+    padding: 0.25em;
+    z-index: +1;
+    background-color: #fab;
+}
+
+
+.main-content{
+  text-align:center;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 40px;
+  width: 20%;
+}
+
+.grid-container {
+    display: grid;
+    grid-column-gap: 50px;
+  }
+
+  
+
+  .test {
+    text-align:center;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    background-color: red;
+}
